@@ -1,0 +1,1 @@
+Hey, ChatGPT. Act like a Senior Developer. I am desinging a dev conference website. I need your help to build a FAQ section for the website. So, write me html and css code for the FAQ section
